@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://j.gifs.com/NLMKgp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src='//gifs.com/embed/NLMKgp' frameborder='0' scrolling='no' width='960px' height='1972px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 ## Notes
 
