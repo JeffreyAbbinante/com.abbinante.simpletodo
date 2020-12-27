@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/DFh5uUm"  ><a href="//imgur.com/a/DFh5uUm">com.abbinante.simpletodo demo (webm)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://j.gifs.com/NLMKgp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
