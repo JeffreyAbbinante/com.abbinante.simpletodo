@@ -1,4 +1,3 @@
-# com.abbinante.simpletodo
 # Project 1 - SimpleToDo (com.abbinante.simpletodo)
 
 SimpleToDo (com.abbinante.simpletodo) is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
@@ -26,7 +25,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/beaxTML.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/DFh5uUm"  ><a href="//imgur.com/a/DFh5uUm">com.abbinante.simpletodo demo (webm)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Notes
 
